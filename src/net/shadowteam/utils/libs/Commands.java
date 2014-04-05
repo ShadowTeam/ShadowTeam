@@ -10,4 +10,8 @@ public class Commands {
     public static final String COMMAND_TPX = "tpx";
     public static final String COMMAND_TPX_LANG = COMMAND_LANG + COMMAND_TPX + ".";
     public static final String COMMAND_TPX_USAGE = COMMAND_TPX_LANG + COMMAND_USAGE;
+ // CCM
+    public static final String COMMAND_Shadow = "Shadow";
+    public static final String COMMAND_Shadow_LANG = COMMAND_LANG + COMMAND_Shadow + ".";
+    public static final String COMMAND_Shadow_USAGE = COMMAND_Shadow_LANG + COMMAND_USAGE;
 }
