@@ -1,3 +1,15 @@
+0.0.10.0.1
+
+1.7.2-0.0.1.null1.7.2-0.0.1.null
+
+****************************
+ Powered By MCP:            
+ http://mcp.ocean-labs.de/  
+ Searge, ProfMobius, Fesh0r,
+ R4wk, ZeuX, IngisKahn      
+ MCP Data version : unknown
+****************************
+:afterEclipseImport
 <?xml version="1.0" encoding="UTF-8"?><classpath>
   <classpathentry kind="src" path="src/main/java"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
@@ -8,3 +20,8 @@
   </classpathentry>
   <classpathentry kind="output" path="bin"/>
 </classpath>
+
+
+BUILD SUCCESSFUL
+
+Total time: 1.496 secs
