@@ -18,8 +18,8 @@ apply plugin: "forge"
 
 // stuff specific to my mod
 group = 'com.github.abrarsyed'
-version = "4.6.3"
-archivesBaseName = 'secretroomsmod'
+version = "0.0.1"
+archivesBaseName = 'ShadowTeam'
 
 minecraft {
     version = "1.7.2-10.12.1.1061" // grab latest forge
