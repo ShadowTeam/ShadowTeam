@@ -17,7 +17,7 @@ buildscript {
 apply plugin: "forge"
 
 // stuff specific to my mod
-group = 'com.github.abrarsyed'
+group = 'net.shadowteam'
 version = "0.0.1"
 archivesBaseName = 'ShadowTeam'
 
