@@ -9,3 +9,6 @@
 .settins
 .classpath
 .project
+bin/
+.gradle/
+.settings/

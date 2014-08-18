@@ -1,2 +1,11 @@
-/mapwriter
-/net
+*.class
+
+# Package Files #
+*.war
+*.ear
+/build
+
+# eclipse
+.settins
+.classpath
+.project
